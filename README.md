@@ -10,7 +10,7 @@ https://github.com/taeyeonmik/robotics_automation_algorithm/assets/161742505/138
 ## Project details
 ### 1. language and main frame works/libraries
 - python
-- dobot, pytorch, opencv-python, mediapipe
+- pytorch, opencv-python, mediapipe, dobot
 
 ### 2. data
 - image data of injured patients collected from the hospital. Due to the sensitivity of the data and requests from the company, it is not possible to disclose the data.
